@@ -5,7 +5,7 @@
   "homepage" : "",
   "repository" : {
     "type" : "git", 
-    "url" : ""
+    "url" : "https://github.com/jprichardson/d3-dragrect"
   },
   "keywords" : [],
   "author" : "JP Richardson <jprichardson@gmail.com>",

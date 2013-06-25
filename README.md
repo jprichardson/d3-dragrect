@@ -3,7 +3,7 @@ JavaScript - d3-dragrect
 
 A JavaScript D3 drag selection rectangle component. Only horizontal at the moment. 
 
-This essentially allows you to create a graph in D3 and then drag and visually select portions of the graph. You can create multiple selections.
+This essentially allows you to use a graph that you created in D3 and then drag and visually select portions of the graph. You can create multiple selections.
 
 
 Screenshots and examples coming when the API stabilizes a bit.
