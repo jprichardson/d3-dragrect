@@ -4,6 +4,6 @@
   "description": "D3 drag selection rectangle component.",
   "keywords": ["d3", "browserify", "component", "drag", "selection"],
   "scripts": [
-    "lib/d3-dragsel.js"
+    "lib/d3-dragrect.js"
   ]
 }
