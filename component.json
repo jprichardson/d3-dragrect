@@ -1,0 +1,9 @@
+{
+  "name": "d3-dragrect",
+  "version": "0.0.1",
+  "description": "D3 drag selection rectangle component.",
+  "keywords": ["d3", "browserify", "component", "drag", "selection"],
+  "scripts": [
+    "lib/d3-dragsel.js"
+  ]
+}
