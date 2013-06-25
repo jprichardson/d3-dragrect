@@ -41,7 +41,7 @@ Usage
 var d3dragrect = require('d3-dragrect') 
 
 //'svg' is your svg element, typically 'height' would be the height of 'svg'
-var dragBehavior = d3ddragrect(d3, svg, xScale, height)
+var dragBehavior = d3dragrect(d3, svg, xScale, height)
 
 svg.call(dragBehavior)
 
