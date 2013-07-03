@@ -1,6 +1,6 @@
 {
   "name" : "d3-dragrect", 
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "description" :"A JavaScript D3 drag selection rectangle component.",
   "homepage" : "",
   "repository" : {
